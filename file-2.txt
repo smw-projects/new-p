@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 file 2
 
 file 2
@@ -13,3 +14,16 @@ file 2
 file 2
 
 file 2
+=======
+File 2 Master
+
+File 2 Master
+
+File 2 Master
+
+File 2 Master
+
+File 2 Master
+
+File 2 Master
+>>>>>>> master
